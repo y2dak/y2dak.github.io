@@ -7,11 +7,11 @@
       "description" : "",
       "developer" : "Yatin Kaushal",
       "featured" : true,
-      "icon" : "https:\/\/y2dak.github.io\/manifest.json\/icons\/com-yatink-mindbodysoul.png",
-      "manifestPlist" : "https:\/\/y2dak.github.io\/manifest.json\/plists\/com-yatink-mindbodysoul-1.0-b1.plist",
+      "icon" : "https:\/\/y2dak.github.io\/yapp-store\/icons\/com-yatink-mindbodysoul.png",
+      "manifestPlist" : "https:\/\/y2dak.github.io\/yapp-store\/plists\/com-yatink-mindbodysoul-1.0-b1.plist",
       "minimumOS" : "17.0",
       "name" : "MindBodySoul",
-      "releaseDate" : "2026-05-05T15:29:39Z",
+      "releaseDate" : "2026-05-05T15:45:57Z",
       "releaseNotes" : "",
       "screenshots" : [
 
@@ -21,5 +21,5 @@
       "version" : "1.0"
     }
   ],
-  "updatedAt" : "2026-05-05T15:29:39Z"
+  "updatedAt" : "2026-05-05T15:45:57Z"
 }
