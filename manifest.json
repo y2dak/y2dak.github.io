@@ -1,45 +1,25 @@
 {
-  "updatedAt": "2026-05-03T00:00:00Z",
-  "apps": [
+  "apps" : [
     {
-      "bundleIdentifier": "com.yatin.weatherbuddy",
-      "name": "Weather Buddy",
-      "tagline": "A friendlier forecast.",
-      "description": "Weather Buddy gives you the day's forecast in plain English with a friendly mascot. Pull to refresh, tap for the hour-by-hour, and get gentle reminders when rain is incoming.",
-      "version": "1.2.0",
-      "build": 14,
-      "icon": "https://yatinkaushal.github.io/yapp-store/icons/weatherbuddy.png",
-      "screenshots": [
-        "https://yatinkaushal.github.io/yapp-store/shots/weatherbuddy-1.png",
-        "https://yatinkaushal.github.io/yapp-store/shots/weatherbuddy-2.png"
+      "build" : 1,
+      "bundleIdentifier" : "com.yatink.mindbodysoul",
+      "category" : "Utilities",
+      "description" : "",
+      "developer" : "Yatin Kaushal",
+      "featured" : true,
+      "icon" : "https:\/\/y2dak.github.io\/manifest.json\/icons\/com-yatink-mindbodysoul.png",
+      "manifestPlist" : "https:\/\/y2dak.github.io\/manifest.json\/plists\/com-yatink-mindbodysoul-1.0-b1.plist",
+      "minimumOS" : "17.0",
+      "name" : "MindBodySoul",
+      "releaseDate" : "2026-05-05T15:29:39Z",
+      "releaseNotes" : "",
+      "screenshots" : [
+
       ],
-      "category": "Weather",
-      "developer": "Yatin Kaushal",
-      "releaseDate": "2026-04-22T00:00:00Z",
-      "releaseNotes": "Added hour-by-hour view. Faster launch. Fixed a bug where the mascot waved during thunderstorms (rude).",
-      "minimumOS": "17.0",
-      "size": 18450000,
-      "manifestPlist": "https://yatinkaushal.github.io/yapp-store/plists/weatherbuddy-1.2.0.plist",
-      "accent": "#3AA8FF",
-      "featured": true
-    },
-    {
-      "bundleIdentifier": "com.yatin.familychores",
-      "name": "Family Chores",
-      "tagline": "Whose turn is the dishes?",
-      "description": "Rotating chore lists for your household, with streaks and gentle nags. Built for our family, shared with yours.",
-      "version": "0.4.1",
-      "build": 9,
-      "icon": "https://yatinkaushal.github.io/yapp-store/icons/familychores.png",
-      "screenshots": [],
-      "category": "Productivity",
-      "developer": "Yatin Kaushal",
-      "releaseDate": "2026-03-30T00:00:00Z",
-      "releaseNotes": "First public-to-family release.",
-      "minimumOS": "17.0",
-      "size": 9300000,
-      "manifestPlist": "https://yatinkaushal.github.io/yapp-store/plists/familychores-0.4.1.plist",
-      "accent": "#7A5CFF"
+      "size" : 5924945,
+      "tagline" : "",
+      "version" : "1.0"
     }
-  ]
+  ],
+  "updatedAt" : "2026-05-05T15:29:39Z"
 }
